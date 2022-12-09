@@ -44,7 +44,7 @@ $ pkg install nodejs [error]
 
 $ pkg upgrade nodejs
 
-$ git clone https://github.com/liaacans/base-device
+$ git clone https://github.com/rizalxtc/oto
 
 $ cd base-device
 
@@ -76,11 +76,11 @@ $ node main.js atau npm start
 
 ## Sosial Media Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/AuliaRahmanOfficial123)
+* [`Youtube Admin`](https://youtube.com/@rizalxyz)
 
-* [`Instagram Admin`](https://instagram.com/auliarahman_ckep)
+* [`Instagram Admin`](https://instagram.com/mhdarull_gz)
 
-* [`WhatsApp Admin`](https://wa.me/6285821676621)
+* [`WhatsApp Admin`](https://wa.me/6283856948662)
 
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
